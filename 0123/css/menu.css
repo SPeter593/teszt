@@ -1,0 +1,8 @@
+nav{
+    width:100%;
+    border:2px dotted black;
+    background-color: #a37e2c;
+    color:white;
+    min-height:100px;
+    font-size:2em;
+}
